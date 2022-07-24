@@ -1,0 +1,6 @@
+C:\Users\CPU\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\ConsoleMethods.exe.config
+C:\Users\CPU\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\ConsoleMethods.exe
+C:\Users\CPU\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\ConsoleMethods.pdb
+C:\Users\CPU\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\ConsoleMethods.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\ConsoleMethods.exe
+C:\Users\CPU\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\ConsoleMethods.pdb

@@ -1,0 +1,3 @@
+Wins: 6
+Loses: 6
+Ties: 4

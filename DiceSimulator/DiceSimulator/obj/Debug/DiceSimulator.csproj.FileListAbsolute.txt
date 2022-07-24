@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe.config
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.pdb
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.frmDice.resources
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.Properties.Resources.resources
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.exe
+C:\Users\CPU\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.pdb

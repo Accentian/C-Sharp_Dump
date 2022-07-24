@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\bin\Debug\MethodExamples.exe.config
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\bin\Debug\MethodExamples.exe
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\bin\Debug\MethodExamples.pdb
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\obj\Debug\MethodExamples.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\obj\Debug\MethodExamples.frmMethod.resources
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\obj\Debug\MethodExamples.Properties.Resources.resources
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\obj\Debug\MethodExamples.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\obj\Debug\MethodExamples.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\obj\Debug\MethodExamples.exe
+C:\Users\CPU\source\repos\MethodExamples\MethodExamples\obj\Debug\MethodExamples.pdb
