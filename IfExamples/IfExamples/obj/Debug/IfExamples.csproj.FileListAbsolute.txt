@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\IfExamples\IfExamples\bin\Debug\IfExamples.exe.config
+C:\Users\CPU\source\repos\IfExamples\IfExamples\bin\Debug\IfExamples.exe
+C:\Users\CPU\source\repos\IfExamples\IfExamples\bin\Debug\IfExamples.pdb
+C:\Users\CPU\source\repos\IfExamples\IfExamples\obj\Debug\IfExamples.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\IfExamples\IfExamples\obj\Debug\IfExamples.frmIfExamples.resources
+C:\Users\CPU\source\repos\IfExamples\IfExamples\obj\Debug\IfExamples.Properties.Resources.resources
+C:\Users\CPU\source\repos\IfExamples\IfExamples\obj\Debug\IfExamples.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\IfExamples\IfExamples\obj\Debug\IfExamples.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\IfExamples\IfExamples\obj\Debug\IfExamples.exe
+C:\Users\CPU\source\repos\IfExamples\IfExamples\obj\Debug\IfExamples.pdb

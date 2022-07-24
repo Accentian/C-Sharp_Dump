@@ -1,0 +1,6 @@
+C:\Users\CPU\source\repos\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\CPU\source\repos\Temperature\Temperature\bin\Debug\Temperature.exe
+C:\Users\CPU\source\repos\Temperature\Temperature\bin\Debug\Temperature.pdb
+C:\Users\CPU\source\repos\Temperature\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\Temperature\Temperature\obj\Debug\Temperature.exe
+C:\Users\CPU\source\repos\Temperature\Temperature\obj\Debug\Temperature.pdb

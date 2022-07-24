@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\bin\Debug\RadioSwitchExample.exe.config
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\bin\Debug\RadioSwitchExample.exe
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\bin\Debug\RadioSwitchExample.pdb
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\obj\Debug\RadioSwitchExample.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\obj\Debug\RadioSwitchExample.frmRadioSwitch.resources
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\obj\Debug\RadioSwitchExample.Properties.Resources.resources
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\obj\Debug\RadioSwitchExample.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\obj\Debug\RadioSwitchExample.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\obj\Debug\RadioSwitchExample.exe
+C:\Users\CPU\source\repos\RadioSwitchExample\RadioSwitchExample\obj\Debug\RadioSwitchExample.pdb
