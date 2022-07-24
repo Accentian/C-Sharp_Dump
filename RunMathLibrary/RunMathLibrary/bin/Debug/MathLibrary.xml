@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MathLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MathLibrary.ReturnInteger">
+            <summary>
+            This class will contain three method that will return the largest integer
+            </summary>
+        </member>
+    </members>
+</doc>

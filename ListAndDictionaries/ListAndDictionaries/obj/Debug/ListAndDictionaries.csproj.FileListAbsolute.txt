@@ -1,0 +1,7 @@
+C:\Users\CPU\source\repos\ListAndDictionaries\ListAndDictionaries\bin\Debug\ListAndDictionaries.exe.config
+C:\Users\CPU\source\repos\ListAndDictionaries\ListAndDictionaries\bin\Debug\ListAndDictionaries.exe
+C:\Users\CPU\source\repos\ListAndDictionaries\ListAndDictionaries\bin\Debug\ListAndDictionaries.pdb
+C:\Users\CPU\source\repos\ListAndDictionaries\ListAndDictionaries\obj\Debug\ListAndDictionaries.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\ListAndDictionaries\ListAndDictionaries\obj\Debug\ListAndDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\ListAndDictionaries\ListAndDictionaries\obj\Debug\ListAndDictionaries.exe
+C:\Users\CPU\source\repos\ListAndDictionaries\ListAndDictionaries\obj\Debug\ListAndDictionaries.pdb

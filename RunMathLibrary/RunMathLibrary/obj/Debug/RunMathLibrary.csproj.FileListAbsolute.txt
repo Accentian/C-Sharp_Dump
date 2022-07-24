@@ -1,0 +1,11 @@
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\bin\Debug\RunMathLibrary.exe.config
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\bin\Debug\RunMathLibrary.exe
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\bin\Debug\RunMathLibrary.pdb
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\bin\Debug\MathLibrary.dll
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\bin\Debug\MathLibrary.pdb
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\bin\Debug\MathLibrary.xml
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\obj\Debug\RunMathLibrary.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\obj\Debug\RunMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\obj\Debug\RunMathLibrary.csproj.CopyComplete
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\obj\Debug\RunMathLibrary.exe
+C:\Users\CPU\source\repos\RunMathLibrary\RunMathLibrary\obj\Debug\RunMathLibrary.pdb
