@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\bin\Debug\Chapter2Example.exe.config
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\bin\Debug\Chapter2Example.exe
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\bin\Debug\Chapter2Example.pdb
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\obj\Debug\Chapter2Example.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\obj\Debug\Chapter2Example.Properties.Resources.resources
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\obj\Debug\Chapter2Example.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\obj\Debug\Chapter2Example.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\obj\Debug\Chapter2Example.exe
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\obj\Debug\Chapter2Example.pdb
+C:\Users\CPU\source\repos\Chapter2Example\Chapter2Example\obj\Debug\Chapter2Example.frmWelcome.resources
