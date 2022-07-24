@@ -1,0 +1,14 @@
+Project > Class > Select Service-Based Database
+
+Solution Explorer > Double click database you named > Expand Phonelist
+
+Right click Tables > Add new Tables > Add data > Update
+
+Project > Add New Data Source > DataSet > Choose rename
+
+View > Other Windows > Data Sources
+
+Data Source > Person, Drop Down > Data Grid View > Drag Person
+
+Solution Explorer > Highlight Phonelist > Properties > Copy to Output Directory > Copy if Newer
+
