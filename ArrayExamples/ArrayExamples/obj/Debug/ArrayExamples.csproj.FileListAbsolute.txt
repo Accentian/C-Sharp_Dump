@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\bin\Debug\ArrayExamples.exe.config
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\bin\Debug\ArrayExamples.exe
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\bin\Debug\ArrayExamples.pdb
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.frmArray.resources
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.Properties.Resources.resources
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.exe
+C:\Users\CPU\source\repos\ArrayExamples\ArrayExamples\obj\Debug\ArrayExamples.pdb

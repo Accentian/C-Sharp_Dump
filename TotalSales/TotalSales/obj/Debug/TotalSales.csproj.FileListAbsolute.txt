@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\TotalSales\TotalSales\bin\Debug\TotalSales.exe.config
+C:\Users\CPU\source\repos\TotalSales\TotalSales\bin\Debug\TotalSales.exe
+C:\Users\CPU\source\repos\TotalSales\TotalSales\bin\Debug\TotalSales.pdb
+C:\Users\CPU\source\repos\TotalSales\TotalSales\obj\Debug\TotalSales.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\TotalSales\TotalSales\obj\Debug\TotalSales.frmTotalSales.resources
+C:\Users\CPU\source\repos\TotalSales\TotalSales\obj\Debug\TotalSales.Properties.Resources.resources
+C:\Users\CPU\source\repos\TotalSales\TotalSales\obj\Debug\TotalSales.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\TotalSales\TotalSales\obj\Debug\TotalSales.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\TotalSales\TotalSales\obj\Debug\TotalSales.exe
+C:\Users\CPU\source\repos\TotalSales\TotalSales\obj\Debug\TotalSales.pdb
