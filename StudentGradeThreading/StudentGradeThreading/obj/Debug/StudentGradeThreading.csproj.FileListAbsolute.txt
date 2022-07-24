@@ -1,0 +1,7 @@
+C:\Users\CPU\source\repos\StudentGradeThreading\StudentGradeThreading\bin\Debug\StudentGradeThreading.exe.config
+C:\Users\CPU\source\repos\StudentGradeThreading\StudentGradeThreading\bin\Debug\StudentGradeThreading.exe
+C:\Users\CPU\source\repos\StudentGradeThreading\StudentGradeThreading\bin\Debug\StudentGradeThreading.pdb
+C:\Users\CPU\source\repos\StudentGradeThreading\StudentGradeThreading\obj\Debug\StudentGradeThreading.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\StudentGradeThreading\StudentGradeThreading\obj\Debug\StudentGradeThreading.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\StudentGradeThreading\StudentGradeThreading\obj\Debug\StudentGradeThreading.exe
+C:\Users\CPU\source\repos\StudentGradeThreading\StudentGradeThreading\obj\Debug\StudentGradeThreading.pdb
