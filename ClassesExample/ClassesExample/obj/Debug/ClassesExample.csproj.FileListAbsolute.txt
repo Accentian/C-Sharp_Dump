@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\bin\Debug\ClassesExample.exe.config
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\bin\Debug\ClassesExample.exe
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\bin\Debug\ClassesExample.pdb
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\obj\Debug\ClassesExample.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\obj\Debug\ClassesExample.frmExample.resources
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\obj\Debug\ClassesExample.Properties.Resources.resources
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\obj\Debug\ClassesExample.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\obj\Debug\ClassesExample.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\obj\Debug\ClassesExample.exe
+C:\Users\CPU\source\repos\ClassesExample\ClassesExample\obj\Debug\ClassesExample.pdb

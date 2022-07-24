@@ -1,0 +1,11 @@
+C:\Users\CPU\source\repos\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\CPU\source\repos\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\CPU\source\repos\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\CPU\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.frmBank.resources
+C:\Users\CPU\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.Properties.Resources.resources
+C:\Users\CPU\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\CPU\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\CPU\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.Page2.resources
