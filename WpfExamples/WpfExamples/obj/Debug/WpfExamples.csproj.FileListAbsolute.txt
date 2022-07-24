@@ -1,0 +1,15 @@
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\bin\Debug\WpfExamples.exe.config
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\bin\Debug\WpfExamples.exe
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\bin\Debug\WpfExamples.pdb
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\MainWindow.g.cs
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\App.g.cs
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples_MarkupCompile.cache
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples_MarkupCompile.lref
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\MainWindow.baml
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples.g.resources
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples.Properties.Resources.resources
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples.exe
+C:\Users\CPU\source\repos\WpfExamples\WpfExamples\obj\Debug\WpfExamples.pdb
