@@ -1,0 +1,5 @@
+C:\Users\CPU\source\repos\WeatherLibrary\WeatherLibrary\bin\Release\WeatherLibrary.dll
+C:\Users\CPU\source\repos\WeatherLibrary\WeatherLibrary\bin\Release\WeatherLibrary.pdb
+C:\Users\CPU\source\repos\WeatherLibrary\WeatherLibrary\obj\Release\WeatherLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\WeatherLibrary\WeatherLibrary\obj\Release\WeatherLibrary.dll
+C:\Users\CPU\source\repos\WeatherLibrary\WeatherLibrary\obj\Release\WeatherLibrary.pdb
