@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.frmInheritance.resources
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.Properties.Resources.resources
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\CPU\source\repos\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb
