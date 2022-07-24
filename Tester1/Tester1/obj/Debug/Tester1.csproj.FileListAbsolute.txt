@@ -1,0 +1,9 @@
+C:\Users\MC09-239\source\repos\Tester1\Tester1\bin\Debug\Tester1.exe.config
+C:\Users\MC09-239\source\repos\Tester1\Tester1\bin\Debug\Tester1.exe
+C:\Users\MC09-239\source\repos\Tester1\Tester1\bin\Debug\Tester1.pdb
+C:\Users\MC09-239\source\repos\Tester1\Tester1\bin\Debug\MyLibrary.dll
+C:\Users\MC09-239\source\repos\Tester1\Tester1\bin\Debug\MyLibrary.pdb
+C:\Users\MC09-239\source\repos\Tester1\Tester1\obj\Debug\Tester1.csprojResolveAssemblyReference.cache
+C:\Users\MC09-239\source\repos\Tester1\Tester1\obj\Debug\Tester1.csproj.CoreCompileInputs.cache
+C:\Users\MC09-239\source\repos\Tester1\Tester1\obj\Debug\Tester1.exe
+C:\Users\MC09-239\source\repos\Tester1\Tester1\obj\Debug\Tester1.pdb

@@ -1,0 +1,14 @@
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\bin\Debug\LibraryTester.exe.config
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\bin\Debug\LibraryTester.exe
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\bin\Debug\LibraryTester.pdb
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\bin\Debug\MathLibrary.dll
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\bin\Debug\MathLibrary.pdb
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\bin\Debug\MathLibrary.xml
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\obj\Debug\LibraryTester.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\obj\Debug\LibraryTester.frmTester.resources
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\obj\Debug\LibraryTester.Properties.Resources.resources
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\obj\Debug\LibraryTester.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\obj\Debug\LibraryTester.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\obj\Debug\LibraryTester.csproj.CopyComplete
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\obj\Debug\LibraryTester.exe
+C:\Users\CPU\source\repos\LibraryTester\LibraryTester\obj\Debug\LibraryTester.pdb
