@@ -1,0 +1,2 @@
+C:\Users\CPU\source\repos\Data Structure C++ HW1\Debug\Data Structure C++ HW1.exe
+C:\Users\CPU\source\repos\Data Structure C++ HW1\Debug\Data Structure C++ HW1.pdb
