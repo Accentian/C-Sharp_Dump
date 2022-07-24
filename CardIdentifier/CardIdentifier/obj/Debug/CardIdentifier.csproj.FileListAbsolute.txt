@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe.config
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.pdb
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.frmTitle.resources
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Properties.Resources.resources
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.exe
+C:\Users\CPU\source\repos\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.pdb

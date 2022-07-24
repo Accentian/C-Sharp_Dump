@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe.config
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.pdb
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.frmMilesPerGallon.resources
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.Properties.Resources.resources
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.exe
+C:\Users\CPU\source\repos\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.pdb
