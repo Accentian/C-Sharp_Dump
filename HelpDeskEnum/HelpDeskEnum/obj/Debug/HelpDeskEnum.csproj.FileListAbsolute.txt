@@ -1,0 +1,7 @@
+C:\Users\CPU\source\repos\HelpDeskEnum\HelpDeskEnum\bin\Debug\HelpDeskEnum.exe.config
+C:\Users\CPU\source\repos\HelpDeskEnum\HelpDeskEnum\bin\Debug\HelpDeskEnum.exe
+C:\Users\CPU\source\repos\HelpDeskEnum\HelpDeskEnum\bin\Debug\HelpDeskEnum.pdb
+C:\Users\CPU\source\repos\HelpDeskEnum\HelpDeskEnum\obj\Debug\HelpDeskEnum.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\HelpDeskEnum\HelpDeskEnum\obj\Debug\HelpDeskEnum.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\HelpDeskEnum\HelpDeskEnum\obj\Debug\HelpDeskEnum.exe
+C:\Users\CPU\source\repos\HelpDeskEnum\HelpDeskEnum\obj\Debug\HelpDeskEnum.pdb
