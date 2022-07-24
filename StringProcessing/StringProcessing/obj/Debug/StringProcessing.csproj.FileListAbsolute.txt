@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\bin\Debug\StringProcessing.exe.config
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\bin\Debug\StringProcessing.exe
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\bin\Debug\StringProcessing.pdb
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\obj\Debug\StringProcessing.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\obj\Debug\StringProcessing.frmStringProcessing.resources
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\obj\Debug\StringProcessing.Properties.Resources.resources
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\obj\Debug\StringProcessing.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\obj\Debug\StringProcessing.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\obj\Debug\StringProcessing.exe
+C:\Users\CPU\source\repos\StringProcessing\StringProcessing\obj\Debug\StringProcessing.pdb

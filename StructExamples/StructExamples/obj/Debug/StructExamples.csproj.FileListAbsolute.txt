@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\StructExamples\StructExamples\bin\Debug\StructExamples.exe.config
+C:\Users\CPU\source\repos\StructExamples\StructExamples\bin\Debug\StructExamples.exe
+C:\Users\CPU\source\repos\StructExamples\StructExamples\bin\Debug\StructExamples.pdb
+C:\Users\CPU\source\repos\StructExamples\StructExamples\obj\Debug\StructExamples.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\StructExamples\StructExamples\obj\Debug\StructExamples.frmStructExamples.resources
+C:\Users\CPU\source\repos\StructExamples\StructExamples\obj\Debug\StructExamples.Properties.Resources.resources
+C:\Users\CPU\source\repos\StructExamples\StructExamples\obj\Debug\StructExamples.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\StructExamples\StructExamples\obj\Debug\StructExamples.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\StructExamples\StructExamples\obj\Debug\StructExamples.exe
+C:\Users\CPU\source\repos\StructExamples\StructExamples\obj\Debug\StructExamples.pdb

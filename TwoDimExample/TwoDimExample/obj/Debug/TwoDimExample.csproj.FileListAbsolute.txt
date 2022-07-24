@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\bin\Debug\TwoDimExample.exe.config
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\bin\Debug\TwoDimExample.exe
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\bin\Debug\TwoDimExample.pdb
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\obj\Debug\TwoDimExample.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\obj\Debug\TwoDimExample.frmDim.resources
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\obj\Debug\TwoDimExample.Properties.Resources.resources
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\obj\Debug\TwoDimExample.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\obj\Debug\TwoDimExample.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\obj\Debug\TwoDimExample.exe
+C:\Users\CPU\source\repos\TwoDimExample\TwoDimExample\obj\Debug\TwoDimExample.pdb
