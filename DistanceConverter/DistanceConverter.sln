@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceConverter", "DistanceConverter\DistanceConverter.csproj", "{8A545239-AEAF-4DD1-98F4-0A83F0498CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A545239-AEAF-4DD1-98F4-0A83F0498CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A545239-AEAF-4DD1-98F4-0A83F0498CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A545239-AEAF-4DD1-98F4-0A83F0498CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A545239-AEAF-4DD1-98F4-0A83F0498CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55457480-3CAA-4466-B6EA-59574209DC91}
+	EndGlobalSection
+EndGlobal

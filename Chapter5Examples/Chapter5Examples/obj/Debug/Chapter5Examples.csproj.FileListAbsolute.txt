@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\bin\Debug\Chapter5Examples.exe.config
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\bin\Debug\Chapter5Examples.exe
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\bin\Debug\Chapter5Examples.pdb
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.frmLoop.resources
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.Properties.Resources.resources
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.exe
+C:\Users\CPU\source\repos\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.pdb

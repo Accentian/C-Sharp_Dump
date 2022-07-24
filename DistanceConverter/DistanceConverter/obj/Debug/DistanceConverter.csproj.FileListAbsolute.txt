@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.exe.config
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.exe
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.pdb
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.frmDistanceConverter.resources
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.Properties.Resources.resources
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.exe
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.pdb
+C:\Users\CPU\source\repos\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.csprojAssemblyReference.cache

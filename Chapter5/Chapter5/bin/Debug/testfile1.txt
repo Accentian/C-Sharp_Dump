@@ -1,0 +1,2 @@
+Random number is: 9
+Random test
