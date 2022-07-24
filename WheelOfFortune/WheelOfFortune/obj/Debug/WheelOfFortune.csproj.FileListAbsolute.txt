@@ -1,0 +1,11 @@
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\WheelOfFortune.exe.config
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\WheelOfFortune.exe
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\WheelOfFortune.pdb
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.frmWheelOfFortune.resources
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.Properties.Resources.resources
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.Spin.resources
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.exe
+C:\Users\CPU\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.pdb
