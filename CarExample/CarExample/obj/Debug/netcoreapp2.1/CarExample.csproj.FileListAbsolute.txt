@@ -1,0 +1,11 @@
+C:\Users\CPU\source\repos\CarExample\CarExample\bin\Debug\netcoreapp2.1\CarExample.deps.json
+C:\Users\CPU\source\repos\CarExample\CarExample\bin\Debug\netcoreapp2.1\CarExample.runtimeconfig.json
+C:\Users\CPU\source\repos\CarExample\CarExample\bin\Debug\netcoreapp2.1\CarExample.runtimeconfig.dev.json
+C:\Users\CPU\source\repos\CarExample\CarExample\bin\Debug\netcoreapp2.1\CarExample.dll
+C:\Users\CPU\source\repos\CarExample\CarExample\bin\Debug\netcoreapp2.1\CarExample.pdb
+C:\Users\CPU\source\repos\CarExample\CarExample\obj\Debug\netcoreapp2.1\CarExample.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\CarExample\CarExample\obj\Debug\netcoreapp2.1\CarExample.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\CarExample\CarExample\obj\Debug\netcoreapp2.1\CarExample.AssemblyInfoInputs.cache
+C:\Users\CPU\source\repos\CarExample\CarExample\obj\Debug\netcoreapp2.1\CarExample.AssemblyInfo.cs
+C:\Users\CPU\source\repos\CarExample\CarExample\obj\Debug\netcoreapp2.1\CarExample.dll
+C:\Users\CPU\source\repos\CarExample\CarExample\obj\Debug\netcoreapp2.1\CarExample.pdb
