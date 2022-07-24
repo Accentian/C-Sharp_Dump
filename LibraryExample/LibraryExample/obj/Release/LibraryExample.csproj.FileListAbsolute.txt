@@ -1,0 +1,6 @@
+C:\Users\CPU\source\repos\LibraryExample\LibraryExample\bin\Release\LibraryExample.dll
+C:\Users\CPU\source\repos\LibraryExample\LibraryExample\bin\Release\LibraryExample.pdb
+C:\Users\CPU\source\repos\LibraryExample\LibraryExample\obj\Release\LibraryExample.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\LibraryExample\LibraryExample\obj\Release\LibraryExample.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\LibraryExample\LibraryExample\obj\Release\LibraryExample.dll
+C:\Users\CPU\source\repos\LibraryExample\LibraryExample\obj\Release\LibraryExample.pdb
