@@ -1,0 +1,12 @@
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\bin\Debug\Personnel.mdf
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\bin\Debug\Personnel_log.ldf
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\bin\Debug\PersonnelDatabase.exe.config
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\bin\Debug\PersonnelDatabase.exe
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\bin\Debug\PersonnelDatabase.pdb
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\obj\Debug\PersonnelDatabase.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\obj\Debug\PersonnelDatabase.frmPersonnel.resources
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\obj\Debug\PersonnelDatabase.Properties.Resources.resources
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\obj\Debug\PersonnelDatabase.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\obj\Debug\PersonnelDatabase.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\obj\Debug\PersonnelDatabase.exe
+C:\Users\CPU\source\repos\PersonnelDatabase\PersonnelDatabase\obj\Debug\PersonnelDatabase.pdb

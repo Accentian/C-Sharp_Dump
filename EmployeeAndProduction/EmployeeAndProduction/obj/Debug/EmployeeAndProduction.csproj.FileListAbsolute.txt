@@ -1,0 +1,10 @@
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\obj\Debug\EmployeeAndProduction.csprojAssemblyReference.cache
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\obj\Debug\EmployeeAndProduction.frmProduction.resources
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\obj\Debug\EmployeeAndProduction.Properties.Resources.resources
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\obj\Debug\EmployeeAndProduction.csproj.GenerateResource.cache
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\obj\Debug\EmployeeAndProduction.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\bin\Debug\EmployeeAndProduction.exe.config
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\bin\Debug\EmployeeAndProduction.exe
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\bin\Debug\EmployeeAndProduction.pdb
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\obj\Debug\EmployeeAndProduction.exe
+C:\Users\CPU\source\repos\EmployeeAndProduction\EmployeeAndProduction\obj\Debug\EmployeeAndProduction.pdb
