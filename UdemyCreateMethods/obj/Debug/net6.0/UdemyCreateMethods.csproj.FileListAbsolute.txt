@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\bin\Debug\net6.0\UdemyCreateMethods.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\bin\Debug\net6.0\UdemyCreateMethods.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\bin\Debug\net6.0\UdemyCreateMethods.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\bin\Debug\net6.0\UdemyCreateMethods.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\bin\Debug\net6.0\UdemyCreateMethods.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\UdemyCreateMethods.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\UdemyCreateMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\UdemyCreateMethods.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\UdemyCreateMethods.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\UdemyCreateMethods.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\UdemyCreateMethods.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\refint\UdemyCreateMethods.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\UdemyCreateMethods.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\UdemyCreateMethods.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyCreateMethods\obj\Debug\net6.0\ref\UdemyCreateMethods.dll
