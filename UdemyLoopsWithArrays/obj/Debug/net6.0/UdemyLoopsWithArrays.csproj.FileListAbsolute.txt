@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\bin\Debug\net6.0\UdemyLoopsWithArrays.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\bin\Debug\net6.0\UdemyLoopsWithArrays.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\bin\Debug\net6.0\UdemyLoopsWithArrays.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\bin\Debug\net6.0\UdemyLoopsWithArrays.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\bin\Debug\net6.0\UdemyLoopsWithArrays.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\UdemyLoopsWithArrays.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\UdemyLoopsWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\UdemyLoopsWithArrays.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\UdemyLoopsWithArrays.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\UdemyLoopsWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\UdemyLoopsWithArrays.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\refint\UdemyLoopsWithArrays.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\UdemyLoopsWithArrays.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\UdemyLoopsWithArrays.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyLoopsWithArrays\obj\Debug\net6.0\ref\UdemyLoopsWithArrays.dll

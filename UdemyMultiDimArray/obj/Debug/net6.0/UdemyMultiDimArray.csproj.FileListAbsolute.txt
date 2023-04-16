@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\bin\Debug\net6.0\UdemyMultiDimArray.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\bin\Debug\net6.0\UdemyMultiDimArray.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\bin\Debug\net6.0\UdemyMultiDimArray.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\bin\Debug\net6.0\UdemyMultiDimArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\bin\Debug\net6.0\UdemyMultiDimArray.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\UdemyMultiDimArray.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\UdemyMultiDimArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\UdemyMultiDimArray.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\UdemyMultiDimArray.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\UdemyMultiDimArray.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\UdemyMultiDimArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\refint\UdemyMultiDimArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\UdemyMultiDimArray.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\UdemyMultiDimArray.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiDimArray\obj\Debug\net6.0\ref\UdemyMultiDimArray.dll
