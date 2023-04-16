@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\bin\Debug\net6.0\UdemyTimeConversion.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\bin\Debug\net6.0\UdemyTimeConversion.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\bin\Debug\net6.0\UdemyTimeConversion.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\bin\Debug\net6.0\UdemyTimeConversion.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\bin\Debug\net6.0\UdemyTimeConversion.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\UdemyTimeConversion.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\UdemyTimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\UdemyTimeConversion.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\UdemyTimeConversion.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\UdemyTimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\UdemyTimeConversion.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\refint\UdemyTimeConversion.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\UdemyTimeConversion.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\UdemyTimeConversion.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyTimeConversion\obj\Debug\net6.0\ref\UdemyTimeConversion.dll

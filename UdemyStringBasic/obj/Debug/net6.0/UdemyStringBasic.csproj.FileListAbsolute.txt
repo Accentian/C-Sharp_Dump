@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\bin\Debug\net6.0\UdemyStringBasic.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\bin\Debug\net6.0\UdemyStringBasic.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\bin\Debug\net6.0\UdemyStringBasic.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\bin\Debug\net6.0\UdemyStringBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\bin\Debug\net6.0\UdemyStringBasic.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\UdemyStringBasic.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\UdemyStringBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\UdemyStringBasic.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\UdemyStringBasic.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\UdemyStringBasic.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\UdemyStringBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\refint\UdemyStringBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\UdemyStringBasic.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\UdemyStringBasic.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyStringBasic\obj\Debug\net6.0\ref\UdemyStringBasic.dll

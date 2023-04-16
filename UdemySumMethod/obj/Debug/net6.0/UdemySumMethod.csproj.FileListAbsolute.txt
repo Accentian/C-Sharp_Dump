@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\bin\Debug\net6.0\UdemySumMethod.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\bin\Debug\net6.0\UdemySumMethod.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\bin\Debug\net6.0\UdemySumMethod.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\bin\Debug\net6.0\UdemySumMethod.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\bin\Debug\net6.0\UdemySumMethod.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\UdemySumMethod.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\UdemySumMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\UdemySumMethod.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\UdemySumMethod.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\UdemySumMethod.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\UdemySumMethod.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\refint\UdemySumMethod.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\UdemySumMethod.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\UdemySumMethod.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySumMethod\obj\Debug\net6.0\ref\UdemySumMethod.dll
