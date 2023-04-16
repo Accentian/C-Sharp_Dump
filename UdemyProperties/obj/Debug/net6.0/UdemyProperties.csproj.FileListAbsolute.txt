@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\UdemyProperties.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\UdemyProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\UdemyProperties.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\UdemyProperties.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\UdemyProperties.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\bin\Debug\net6.0\UdemyProperties.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\bin\Debug\net6.0\UdemyProperties.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\bin\Debug\net6.0\UdemyProperties.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\bin\Debug\net6.0\UdemyProperties.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\bin\Debug\net6.0\UdemyProperties.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\UdemyProperties.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\refint\UdemyProperties.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\UdemyProperties.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\UdemyProperties.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyProperties\obj\Debug\net6.0\ref\UdemyProperties.dll
