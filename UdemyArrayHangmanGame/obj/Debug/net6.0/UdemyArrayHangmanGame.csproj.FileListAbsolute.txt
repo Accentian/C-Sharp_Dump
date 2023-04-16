@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\bin\Debug\net6.0\UdemyArrayHangmanGame.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\bin\Debug\net6.0\UdemyArrayHangmanGame.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\bin\Debug\net6.0\UdemyArrayHangmanGame.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\bin\Debug\net6.0\UdemyArrayHangmanGame.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\bin\Debug\net6.0\UdemyArrayHangmanGame.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\UdemyArrayHangmanGame.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\UdemyArrayHangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\UdemyArrayHangmanGame.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\UdemyArrayHangmanGame.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\UdemyArrayHangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\UdemyArrayHangmanGame.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\refint\UdemyArrayHangmanGame.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\UdemyArrayHangmanGame.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\UdemyArrayHangmanGame.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayHangmanGame\obj\Debug\net6.0\ref\UdemyArrayHangmanGame.dll

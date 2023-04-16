@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\bin\Debug\net6.0\UdemyArrayMethods.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\bin\Debug\net6.0\UdemyArrayMethods.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\bin\Debug\net6.0\UdemyArrayMethods.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\bin\Debug\net6.0\UdemyArrayMethods.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\bin\Debug\net6.0\UdemyArrayMethods.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\UdemyArrayMethods.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\UdemyArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\UdemyArrayMethods.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\UdemyArrayMethods.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\UdemyArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\UdemyArrayMethods.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\refint\UdemyArrayMethods.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\UdemyArrayMethods.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\UdemyArrayMethods.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyArrayMethods\obj\Debug\net6.0\ref\UdemyArrayMethods.dll
