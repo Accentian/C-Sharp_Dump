@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\bin\Debug\net6.0\UdemyCharBasic.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\bin\Debug\net6.0\UdemyCharBasic.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\bin\Debug\net6.0\UdemyCharBasic.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\bin\Debug\net6.0\UdemyCharBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\bin\Debug\net6.0\UdemyCharBasic.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\UdemyCharBasic.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\UdemyCharBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\UdemyCharBasic.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\UdemyCharBasic.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\UdemyCharBasic.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\UdemyCharBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\refint\UdemyCharBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\UdemyCharBasic.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\UdemyCharBasic.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyCharBasic\obj\Debug\net6.0\ref\UdemyCharBasic.dll
