@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\bin\Debug\net6.0\UdemyConsoleTest.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\bin\Debug\net6.0\UdemyConsoleTest.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\bin\Debug\net6.0\UdemyConsoleTest.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\bin\Debug\net6.0\UdemyConsoleTest.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\bin\Debug\net6.0\UdemyConsoleTest.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\UdemyConsoleTest.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\UdemyConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\UdemyConsoleTest.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\UdemyConsoleTest.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\UdemyConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\UdemyConsoleTest.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\refint\UdemyConsoleTest.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\UdemyConsoleTest.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\UdemyConsoleTest.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleTest\obj\Debug\net6.0\ref\UdemyConsoleTest.dll

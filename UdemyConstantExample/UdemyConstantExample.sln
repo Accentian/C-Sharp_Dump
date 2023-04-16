@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyConstantExample", "UdemyConstantExample.csproj", "{ADD042A9-7224-492F-A5F5-D0E5DBDD6340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD042A9-7224-492F-A5F5-D0E5DBDD6340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD042A9-7224-492F-A5F5-D0E5DBDD6340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD042A9-7224-492F-A5F5-D0E5DBDD6340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD042A9-7224-492F-A5F5-D0E5DBDD6340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCCCEC61-904A-4C55-A057-A9E3A9726634}
+	EndGlobalSection
+EndGlobal

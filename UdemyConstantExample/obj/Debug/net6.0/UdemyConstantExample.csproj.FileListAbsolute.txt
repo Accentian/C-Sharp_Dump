@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\bin\Debug\net6.0\UdemyConstantExample.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\bin\Debug\net6.0\UdemyConstantExample.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\bin\Debug\net6.0\UdemyConstantExample.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\bin\Debug\net6.0\UdemyConstantExample.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\bin\Debug\net6.0\UdemyConstantExample.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\UdemyConstantExample.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\UdemyConstantExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\UdemyConstantExample.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\UdemyConstantExample.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\UdemyConstantExample.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\UdemyConstantExample.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\refint\UdemyConstantExample.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\UdemyConstantExample.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\UdemyConstantExample.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConstantExample\obj\Debug\net6.0\ref\UdemyConstantExample.dll
