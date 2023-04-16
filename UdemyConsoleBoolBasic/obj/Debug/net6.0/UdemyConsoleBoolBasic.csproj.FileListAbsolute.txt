@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\bin\Debug\net6.0\UdemyConsoleBoolBasic.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\bin\Debug\net6.0\UdemyConsoleBoolBasic.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\bin\Debug\net6.0\UdemyConsoleBoolBasic.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\bin\Debug\net6.0\UdemyConsoleBoolBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\bin\Debug\net6.0\UdemyConsoleBoolBasic.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\UdemyConsoleBoolBasic.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\UdemyConsoleBoolBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\UdemyConsoleBoolBasic.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\UdemyConsoleBoolBasic.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\UdemyConsoleBoolBasic.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\UdemyConsoleBoolBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\refint\UdemyConsoleBoolBasic.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\UdemyConsoleBoolBasic.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\UdemyConsoleBoolBasic.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyConsoleBoolBasic\obj\Debug\net6.0\ref\UdemyConsoleBoolBasic.dll

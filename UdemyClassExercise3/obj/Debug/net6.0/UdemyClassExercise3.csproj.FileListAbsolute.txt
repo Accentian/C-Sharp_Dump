@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\bin\Debug\net6.0\UdemyClassExercise3.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\bin\Debug\net6.0\UdemyClassExercise3.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\bin\Debug\net6.0\UdemyClassExercise3.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\bin\Debug\net6.0\UdemyClassExercise3.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\bin\Debug\net6.0\UdemyClassExercise3.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\UdemyClassExercise3.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\UdemyClassExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\UdemyClassExercise3.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\UdemyClassExercise3.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\UdemyClassExercise3.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\UdemyClassExercise3.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\refint\UdemyClassExercise3.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\UdemyClassExercise3.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\UdemyClassExercise3.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyClassExercise3\obj\Debug\net6.0\ref\UdemyClassExercise3.dll

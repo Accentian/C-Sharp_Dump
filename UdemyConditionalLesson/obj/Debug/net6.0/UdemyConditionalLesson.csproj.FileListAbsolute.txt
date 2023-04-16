@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\bin\Debug\net6.0\UdemyConditionalLesson.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\bin\Debug\net6.0\UdemyConditionalLesson.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\bin\Debug\net6.0\UdemyConditionalLesson.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\bin\Debug\net6.0\UdemyConditionalLesson.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\bin\Debug\net6.0\UdemyConditionalLesson.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\UdemyConditionalLesson.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\UdemyConditionalLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\UdemyConditionalLesson.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\UdemyConditionalLesson.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\UdemyConditionalLesson.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\UdemyConditionalLesson.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\refint\UdemyConditionalLesson.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\UdemyConditionalLesson.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\UdemyConditionalLesson.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyConditionalLesson\obj\Debug\net6.0\ref\UdemyConditionalLesson.dll
