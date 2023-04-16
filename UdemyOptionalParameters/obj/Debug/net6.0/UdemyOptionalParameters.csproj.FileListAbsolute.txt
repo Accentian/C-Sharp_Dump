@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\bin\Debug\net6.0\UdemyOptionalParameters.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\bin\Debug\net6.0\UdemyOptionalParameters.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\bin\Debug\net6.0\UdemyOptionalParameters.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\bin\Debug\net6.0\UdemyOptionalParameters.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\bin\Debug\net6.0\UdemyOptionalParameters.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\UdemyOptionalParameters.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\UdemyOptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\UdemyOptionalParameters.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\UdemyOptionalParameters.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\UdemyOptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\UdemyOptionalParameters.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\refint\UdemyOptionalParameters.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\UdemyOptionalParameters.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\UdemyOptionalParameters.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOptionalParameters\obj\Debug\net6.0\ref\UdemyOptionalParameters.dll

@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\bin\Debug\net6.0\UdemyMultiplicationTable.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\bin\Debug\net6.0\UdemyMultiplicationTable.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\bin\Debug\net6.0\UdemyMultiplicationTable.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\bin\Debug\net6.0\UdemyMultiplicationTable.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\bin\Debug\net6.0\UdemyMultiplicationTable.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\UdemyMultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\UdemyMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\UdemyMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\UdemyMultiplicationTable.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\UdemyMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\UdemyMultiplicationTable.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\refint\UdemyMultiplicationTable.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\UdemyMultiplicationTable.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\UdemyMultiplicationTable.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyMultiplicationTable\obj\Debug\net6.0\ref\UdemyMultiplicationTable.dll

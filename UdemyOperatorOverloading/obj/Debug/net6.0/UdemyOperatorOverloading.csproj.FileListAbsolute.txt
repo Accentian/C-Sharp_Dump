@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\bin\Debug\net6.0\UdemyOperatorOverloading.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\bin\Debug\net6.0\UdemyOperatorOverloading.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\bin\Debug\net6.0\UdemyOperatorOverloading.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\bin\Debug\net6.0\UdemyOperatorOverloading.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\bin\Debug\net6.0\UdemyOperatorOverloading.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\UdemyOperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\UdemyOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\UdemyOperatorOverloading.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\UdemyOperatorOverloading.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\UdemyOperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\UdemyOperatorOverloading.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\refint\UdemyOperatorOverloading.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\UdemyOperatorOverloading.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\UdemyOperatorOverloading.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyOperatorOverloading\obj\Debug\net6.0\ref\UdemyOperatorOverloading.dll
