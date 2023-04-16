@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\bin\Debug\net6.0\UdemyGradeArray.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\bin\Debug\net6.0\UdemyGradeArray.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\bin\Debug\net6.0\UdemyGradeArray.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\bin\Debug\net6.0\UdemyGradeArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\bin\Debug\net6.0\UdemyGradeArray.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\UdemyGradeArray.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\UdemyGradeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\UdemyGradeArray.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\UdemyGradeArray.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\UdemyGradeArray.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\UdemyGradeArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\refint\UdemyGradeArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\UdemyGradeArray.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\UdemyGradeArray.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGradeArray\obj\Debug\net6.0\ref\UdemyGradeArray.dll

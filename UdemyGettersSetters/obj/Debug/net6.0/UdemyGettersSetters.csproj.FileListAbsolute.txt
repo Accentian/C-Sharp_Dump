@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\bin\Debug\net6.0\UdemyGettersSetters.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\bin\Debug\net6.0\UdemyGettersSetters.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\bin\Debug\net6.0\UdemyGettersSetters.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\bin\Debug\net6.0\UdemyGettersSetters.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\bin\Debug\net6.0\UdemyGettersSetters.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\UdemyGettersSetters.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\UdemyGettersSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\UdemyGettersSetters.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\UdemyGettersSetters.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\UdemyGettersSetters.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\UdemyGettersSetters.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\refint\UdemyGettersSetters.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\UdemyGettersSetters.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\UdemyGettersSetters.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyGettersSetters\obj\Debug\net6.0\ref\UdemyGettersSetters.dll
