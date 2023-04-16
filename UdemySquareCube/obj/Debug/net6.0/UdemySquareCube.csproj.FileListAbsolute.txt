@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\bin\Debug\net6.0\UdemySquareCube.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\bin\Debug\net6.0\UdemySquareCube.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\bin\Debug\net6.0\UdemySquareCube.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\bin\Debug\net6.0\UdemySquareCube.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\bin\Debug\net6.0\UdemySquareCube.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\UdemySquareCube.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\UdemySquareCube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\UdemySquareCube.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\UdemySquareCube.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\UdemySquareCube.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\UdemySquareCube.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\refint\UdemySquareCube.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\UdemySquareCube.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\UdemySquareCube.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySquareCube\obj\Debug\net6.0\ref\UdemySquareCube.dll

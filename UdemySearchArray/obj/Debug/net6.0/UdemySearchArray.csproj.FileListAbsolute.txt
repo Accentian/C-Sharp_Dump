@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\bin\Debug\net6.0\UdemySearchArray.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\bin\Debug\net6.0\UdemySearchArray.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\bin\Debug\net6.0\UdemySearchArray.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\bin\Debug\net6.0\UdemySearchArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\bin\Debug\net6.0\UdemySearchArray.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\UdemySearchArray.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\UdemySearchArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\UdemySearchArray.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\UdemySearchArray.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\UdemySearchArray.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\UdemySearchArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\refint\UdemySearchArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\UdemySearchArray.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\UdemySearchArray.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemySearchArray\obj\Debug\net6.0\ref\UdemySearchArray.dll

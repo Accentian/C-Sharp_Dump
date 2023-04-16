@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\bin\Debug\net6.0\UdemyStaticKeyword.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\bin\Debug\net6.0\UdemyStaticKeyword.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\bin\Debug\net6.0\UdemyStaticKeyword.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\bin\Debug\net6.0\UdemyStaticKeyword.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\bin\Debug\net6.0\UdemyStaticKeyword.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\UdemyStaticKeyword.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\UdemyStaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\UdemyStaticKeyword.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\UdemyStaticKeyword.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\UdemyStaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\UdemyStaticKeyword.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\refint\UdemyStaticKeyword.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\UdemyStaticKeyword.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\UdemyStaticKeyword.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyStaticKeyword\obj\Debug\net6.0\ref\UdemyStaticKeyword.dll
