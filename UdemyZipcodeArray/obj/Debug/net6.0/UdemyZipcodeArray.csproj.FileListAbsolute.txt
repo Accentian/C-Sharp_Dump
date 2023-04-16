@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\bin\Debug\net6.0\UdemyZipcodeArray.exe
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\bin\Debug\net6.0\UdemyZipcodeArray.deps.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\bin\Debug\net6.0\UdemyZipcodeArray.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\bin\Debug\net6.0\UdemyZipcodeArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\bin\Debug\net6.0\UdemyZipcodeArray.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\UdemyZipcodeArray.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\UdemyZipcodeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\UdemyZipcodeArray.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\UdemyZipcodeArray.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\UdemyZipcodeArray.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\UdemyZipcodeArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\refint\UdemyZipcodeArray.dll
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\UdemyZipcodeArray.pdb
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\UdemyZipcodeArray.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\C#_Repo\UdemyTutorials\UdemyZipcodeArray\obj\Debug\net6.0\ref\UdemyZipcodeArray.dll
